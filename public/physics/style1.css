@@ -1,0 +1,121 @@
+body{
+    background-image:url(./asset/particles2.jpg);
+    background-position-x: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a{
+    color: transparent;
+}
+#heading{
+    text-align: center;
+    font-size: 5em;
+    background-image: repeating-linear-gradient(skyblue,silver,skyblue,silver,skyblue);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-bottom: 2pt powderblue solid;
+    margin-top: 0%;
+}
+a{
+    color:powderblue;
+}
+.def{
+    margin-left: 12%;
+    margin-top: 2%;
+    
+}
+#definition{
+    color:	#bfd8ed;
+    text-align: center;
+    width: 60%;
+    margin-left: 30%;
+    font-size: 1.3em;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+#model_img{
+    margin-right: 7%;
+    margin-top: 1%;
+}
+.pic_info{
+    
+    color: antiquewhite;
+    width: 52%;
+    font-size: 1.3em;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+
+#model_heading{
+    background-image: repeating-linear-gradient(skyblue,silver,skyblue,silver,skyblue);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-bottom: 1px solid silver;
+    font-size:  2.7em;
+    margin-top: 3%;
+}
+#standard_model{
+    color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.15em;
+    border-bottom: 1px solid silver;
+}
+.link{
+    color: lightgrey;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 85%;;
+    width: 15%;
+}
+#subatomic{
+    background-image: repeating-linear-gradient(skyblue,silver,skyblue,silver,skyblue);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+    font-size: 4em;
+    border-bottom: 1px solid powderblue;
+    margin-top: 2%;
+}
+#main{
+    margin: 0 5%;
+    color: #b9d3ea;
+    font-size: 1.3em;
+    width: 80%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.heading2{
+    font-size: 50px;
+    color: lightgoldenrodyellow;
+    border-bottom: 1px solid lightgoldenrodyellow;
+}
+#quarks{
+    color: lightgoldenrodyellow;
+    width: 60%;
+    margin: 5.5% 6%;
+    font-size: 1.2em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img[alt="beta decay"]{
+    width: 20%;
+    margin-right: 10%;
+}
+img[alt="properties of quarks"]{
+    width: 70%;
+    margin: 0 13%;
+}
+#bosons{
+    color: lightgoldenrodyellow;
+    width: 60%;
+    margin: 5.5% 6%;
+    font-size: 1.2em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img[alt="bosons properties"]{
+    width: 60%;
+    height: auto;
+    margin: 0 15%;
+}
